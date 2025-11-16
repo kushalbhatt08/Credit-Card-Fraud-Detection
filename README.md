@@ -8,4 +8,4 @@
 # Problem
 ### The Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that turned out to be a fraud. This model is then used to identify whether a new transaction is fraudulent or not. Our aim here is to detect 100% of the fraudulent transactions while minimizing the incorrect fraud classifications.
 
-**Now it's time for some fruad detection 🔍, our task is to protect credit card user from cyber attackc and fraud. From given data with the help of machinie learning and data analysis techniques we will predcit that in which pattern, time there is a high chance of frauds and attacks.**
+**Now it's time for some fruad detection , our task is to protect credit card user from cyber attackc and fraud. From given data with the help of machinie learning and data analysis techniques we will predcit that in which pattern, time there is a high chance of frauds and attacks.**
