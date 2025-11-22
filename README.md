@@ -72,28 +72,6 @@ Key EDA steps included:
 
 ---
 
-## 📊 Evaluation Metrics
-Because of major class imbalance, accuracy is NOT useful.  
-We prioritize:
-
-- **Precision**  
-- **Recall**  
-- **F1-score**  
-- **ROC-AUC**  
-- **Confusion Matrix**
-
-### 🎯 Best Model Performance (example values)
-*(Replace with your actual numbers)*
-
-| Metric | Score |
-|--------|--------|
-| Precision | 0.92 |
-| Recall | 0.86 |
-| F1-Score | 0.89 |
-| ROC-AUC | 0.98 |
-
----
-
 ## 🔍 Key Insights
 - Fraud transactions are extremely rare → require specialized handling.  
 - Fraudulent transactions often have significantly different PCA feature distributions.  
